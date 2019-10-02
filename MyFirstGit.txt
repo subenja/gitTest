@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is my first git for lab CC105, created on Github on October 1, 2019.
+=======
+This is my firtst git for lab CC105, created on Github on October 1, 2019.
+
+just added this new line message by nano from Git local 
+>>>>>>> close #123 - just added another line
