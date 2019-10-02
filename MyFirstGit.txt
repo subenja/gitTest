@@ -1,1 +1,1 @@
-This is my fitst git for lab CC105, created on Github on October 1, 2019.
+This is my first git for lab CC105, created on Github on October 1, 2019.
